@@ -13,6 +13,7 @@ I'm a student interested in **programming, technology, and gaming**.
     <img src="https://cdn.simpleicons.org/steam/FFFFFF" width="35" alt="Steam">
   </a>
 </p>
+
 ## 💻 Currently learning
 
 - Programming
