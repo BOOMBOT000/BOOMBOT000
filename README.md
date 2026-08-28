@@ -19,9 +19,3 @@ I'm a student interested in **programming, technology, and gaming**.
 - Programming
 - Web development
 - Git & GitHub
-
-## 🎮 Interests
-
-- Gaming
-- Technology
-- Coding
