@@ -12,10 +12,9 @@ I'm a student interested in **programming, technology, and gaming**.
   </a>
   &nbsp;
   <a href="https://steamcommunity.com/id/BOOMBOT000/">
-    <img src="https://cdn.simpleicons.org/steam/171A21" width="35" alt="Steam">
+    <img src="https://cdn.simpleicons.org/steam/FFFFFF" width="35" alt="Steam">
   </a>
 </p>
-
 ## 💻 Currently learning
 
 - Programming
