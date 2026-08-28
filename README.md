@@ -5,23 +5,23 @@ I'm a student interested in **programming, technology, and gaming**.
 ## 🔗 Connect with me
 
 <p>
-  <a href="https://discord.gg/@overflow_david009">
+  <a href="YOUR_DISCORD_LINK">
     <img src="https://cdn.simpleicons.org/discord/5865F2" width="35" alt="Discord">
   </a>
   &nbsp;
-  <a href="[YOUR_STEAM_LINK](https://steamcommunity.com/id/BOOMBOT000/)">
-  <img src="https://cdn.simpleicons.org/steam/000000" width="35" alt="Steam">
-</a>
+  <a href="https://steamcommunity.com/id/BOOMBOT000/">
+    <img src="https://cdn.simpleicons.org/steam/000000" width="35" alt="Steam">
+  </a>
 </p>
 
 ## 💻 Currently learning
 
-* Programming
-* Web development
-* Git & GitHubhttps://steamcommunity.com/id/BOOMBOT000/
+- Programming
+- Web development
+- Git & GitHub
 
 ## 🎮 Interests
 
-* Gaming
-* Technology
-* Coding
+- Gaming
+- Technology
+- Coding
