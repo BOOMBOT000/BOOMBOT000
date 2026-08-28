@@ -10,7 +10,7 @@ I'm a student interested in **programming, technology, and gaming**.
   </a>
   &nbsp;
   <a href="https://steamcommunity.com/id/BOOMBOT000/">
-    <img src="https://cdn.simpleicons.org/steam/000000" width="35" alt="Steam">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/steam.svg" width="35" alt="Steam">
   </a>
 </p>
 
