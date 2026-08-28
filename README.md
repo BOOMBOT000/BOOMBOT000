@@ -8,10 +8,11 @@ I'm a student interested in **programming, technology, and gaming**.
 
 <p>
   <a href="YOUR_DISCORD_LINK">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+    <img src="https://cdn.simpleicons.org/discord/5865F2" width="35" alt="Discord">
   </a>
+  &nbsp;
   <a href="https://steamcommunity.com/id/BOOMBOT000/">
-    <img src="https://img.shields.io/badge/Steam-171A21?style=for-the-badge&logo=steam&logoColor=white" alt="Steam">
+    <img src="https://cdn.simpleicons.org/steam/171A21" width="35" alt="Steam">
   </a>
 </p>
 
