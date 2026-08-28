@@ -4,8 +4,6 @@ I'm a student interested in **programming, technology, and gaming**.
 
 ## 🔗 Connect with me
 
-## 🔗 Connect with me
-
 <p>
   <a href="YOUR_DISCORD_LINK">
     <img src="https://cdn.simpleicons.org/discord/5865F2" width="35" alt="Discord">
