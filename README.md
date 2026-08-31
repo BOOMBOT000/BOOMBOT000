@@ -9,8 +9,20 @@ I'm a student interested in **programming, technology, and gaming**.
     <img src="https://cdn.simpleicons.org/discord/5865F2" width="35" alt="Discord">
   </a>
   &nbsp;
-  <a href="https://steamcommunity.com/id/BOOMBOT000/">
-    <img src="https://cdn.simpleicons.org/steam/FFFFFF" width="35" alt="Steam">
+  <a href="[LINK_LINKEDIN](https://www.linkedin.com/in/david-elev-b90a7b413/)">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="35" alt="LinkedIn">
+  </a>
+  &nbsp;
+  <a href="LINK_INSTAGRAM">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="35" alt="Instagram">
+  </a>
+  &nbsp;
+  <a href="LINK_X">
+    <img src="https://cdn.simpleicons.org/x/000000" width="35" alt="X">
+  </a>
+  &nbsp;
+  <a href="LINK_TWITTER">
+    <img src="https://cdn.simpleicons.org/twitter/1DA1F2" width="35" alt="Twitter">
   </a>
 </p>
 
