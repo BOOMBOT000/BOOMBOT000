@@ -9,7 +9,7 @@ I'm a student interested in **programming, technology, and gaming**.
     <img src="https://cdn.simpleicons.org/discord/5865F2" width="35" alt="Discord">
   </a>
   &nbsp;
-  <a href="[LINK_LINKEDIN](https://www.linkedin.com/in/david-elev-b90a7b413/)">
+  <a href="https://www.linkedin.com/in/davidiordan009">
     <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="35" alt="LinkedIn">
   </a>
   &nbsp;
