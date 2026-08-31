@@ -31,8 +31,3 @@ I'm a student interested in **programming, technology, and gaming**.
 - Web development
 - Git & GitLab
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NUMELE_TAU_GITHUB/NUMELE_TAU_GITHUB/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NUMELE_TAU_GITHUB/NUMELE_TAU_GITHUB/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake activity" src="https://raw.githubusercontent.com/NUMELE_TAU_GITHUB/NUMELE_TAU_GITHUB/output/github-contribution-grid-snake.svg">
-</picture>
