@@ -9,11 +9,11 @@ I'm a student interested in **programming, technology, and gaming**.
     <img src="https://cdn.simpleicons.org/discord/5865F2" width="35" alt="Discord">
   </a>
   &nbsp;
-  <a href="LINK_LINKEDIN" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="35" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/davidiordan" target="_blank">
+    <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/linkedin-icon.svg" width="35" height="35" alt="LinkedIn">
   </a>
   &nbsp;
-  <a href="LINK_INSTAGRAM" target="_blank">
+  <a href="https://www.instagram.com/david_iordan000" target="_blank">
     <img src="https://cdn.simpleicons.org/instagram/E4405F" width="35" alt="Instagram">
   </a>
   &nbsp;
