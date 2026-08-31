@@ -17,7 +17,7 @@ I'm a student interested in **programming, technology, and gaming**.
     <img src="https://cdn.simpleicons.org/instagram/E4405F" width="35" alt="Instagram">
   </a>
   &nbsp;
-  <a href="https://x.com/DavidTheGamer0">
+  <a href="https://x.com/David_Jordan">
     <img src="https://cdn.simpleicons.org/x/000000" width="35" alt="X">
   </a>
   &nbsp;
