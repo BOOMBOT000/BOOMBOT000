@@ -9,6 +9,9 @@ I'm a student interested in **programming, technology, and gaming**.
     <img src="https://cdn.simpleicons.org/discord/5865F2" width="35" alt="Discord">
   </a>
   &nbsp;
+  <a href="https://www.facebook.com/David Iordan" target="_blank">
+    <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/facebook.svg" width="35" height="35" alt="Facebook">
+  </a>
   <a href="https://www.linkedin.com/in/davidiordan" target="_blank">
     <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/linkedin-icon.svg" width="35" height="35" alt="LinkedIn">
   </a>
