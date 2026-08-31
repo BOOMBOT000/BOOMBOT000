@@ -9,7 +9,7 @@ I'm a student interested in **programming, technology, and gaming**.
     <img src="https://cdn.simpleicons.org/discord/5865F2" width="35" alt="Discord">
   </a>
   &nbsp;
-  <a href="https://m.facebook.com/profile.php?id=100080968144033">
+  <a href="https://facebook.com/profile.php?id=100080968144033">
     <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/facebook.svg" width="35" height="35" alt="Facebook">
   </a>
   <a href="https://www.linkedin.com/in/davidiordan" target="_blank">
