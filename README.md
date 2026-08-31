@@ -30,3 +30,25 @@ I'm a student interested in **programming, technology, and gaming**.
 - Programming
 - Web development
 - Git & GitLab
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NUMELE_TAU_GITHUB&show_icons=true&theme=radial&hide_border=true" alt="GitHub Stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NUMELE_TAU_GITHUB&layout=compact&theme=radial&hide_border=true" alt="Top Languages" />
+</p>
+
+## ⚡ Streak Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NUMELE_TAU_GITHUB&theme=radial&hide_border=true" alt="GitHub Streak" />
+</p>
+
+## 👁️ Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=NUMELE_TAU_GITHUB&color=blue&style=flat-square" alt="Profile Views" />
+</p>
