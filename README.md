@@ -13,7 +13,7 @@ I'm a student interested in **programming, technology, and gaming**.
     <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="35" alt="LinkedIn">
   </a>
   &nbsp;
-  <a href="LINK_INSTAGRAM">
+  <a href="https://www.instagram.com/david_iordan000">
     <img src="https://cdn.simpleicons.org/instagram/E4405F" width="35" alt="Instagram">
   </a>
   &nbsp;
