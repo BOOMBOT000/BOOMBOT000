@@ -1,6 +1,6 @@
 # Hey, I'm David 👋
 
-I'm a student interested in **programming, technology, and gaming**.
+I'm a student interested in **programming, technology, and robotics**.
 
 ## 🔗 Connect with me
 
